@@ -143,7 +143,7 @@
             </p>
           </div>
           <div class="mt-8 sm:w-full sm:max-w-md xl:mt-0 xl:ml-8">
-            <form class="sm:flex" netlify>
+            <form class="sm:flex" method="POST" data-netlify="true">
               <label for="emailAddress" class="sr-only">Email address</label>
               <input
                 id="emailAddress"
