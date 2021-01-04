@@ -221,7 +221,7 @@
             </svg>
           </a>
 
-          <a href="#" class="text-gray-400 hover:text-gray-500">
+          <a href="https://github.com/DundeeBots" class="text-gray-400 hover:text-gray-500">
             <span class="sr-only">GitHub</span>
             <svg
               class="h-6 w-6"
@@ -238,7 +238,7 @@
           </a>
         </div>
         <p class="mt-8 text-center text-base text-gray-400">
-          &copy; 2020 DundeeBots. All rights reserved.
+          &copy; 2021 DundeeBots. All rights reserved.
         </p>
       </div>
     </footer>
