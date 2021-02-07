@@ -212,7 +212,7 @@
           </a>
 
           <a
-            href="mailto:hello@dundeebots.uk"
+            href="mailto:info@dundeebots.uk"
             class="text-gray-400 hover:text-gray-500"
           >
             <span class="sr-only">Email</span>
