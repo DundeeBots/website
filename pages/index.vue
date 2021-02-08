@@ -52,7 +52,7 @@
                 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl"
               >
                 <span class="block xl:inline">Robotics to inspire the</span>
-                <span class="block text-teal-500 xl:inline">
+                <span class="block text-teal-600 xl:inline">
                   Next Generation</span
                 >
               </h1>
@@ -74,14 +74,14 @@
                     Learn More
                   </a>
                 </div>
-                <div class="mt-3 sm:mt-0 sm:ml-3">
+                <!--<div class="mt-3 sm:mt-0 sm:ml-3">
                   <a
                     href="#"
                     class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-teal-700 bg-teal-100 border border-transparent rounded-md hover:bg-teal-200 md:py-4 md:text-lg md:px-10"
                   >
                     Book a session
                   </a>
-                </div>
+                </div> -->
               </div>
             </div>
           </main>
@@ -104,11 +104,11 @@
       </div>
       <div class="relative mx-auto max-w-7xl bg-gray-50">
         <div class="text-center">
-          <h2
-            class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl"
+          <h1
+            class="text-3xl font-extrabold tracking-tight text-teal-600  md:text-7xl"
           >
             From the blog
-          </h2>
+          </h1>
         </div>
         <div
           class="grid max-w-lg gap-5 mx-auto mt-12 lg:grid-cols-3 lg:max-w-none"
