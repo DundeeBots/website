@@ -68,7 +68,7 @@
               >
                 <div class="rounded-md shadow">
                   <a
-                    href="#"
+                    href="https://dundeebots.uk/welcome"
                     class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-teal-600 border border-transparent rounded-md hover:bg-teal-700 md:py-4 md:text-lg md:px-10"
                   >
                     Learn More
