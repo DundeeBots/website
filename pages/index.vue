@@ -169,7 +169,7 @@
     <footer class="bg-white">
       <div class="px-4 py-12 mx-auto overflow-hidden max-w-7xl sm:px-6 lg:px-8">
         <h1 class="text-base text-center text-gray-400">
-          Funded by the <span class="text-teal-500">IET</span>
+          Funded by the <a href="https://www.theiet.org/" class="text-teal-500">IET</a>
         </h1>
         <h1 class="mt-4 text-base text-center text-gray-400">
           Hero Image by Les Pounder for micro:mag
@@ -230,8 +230,7 @@
     </footer>
   </div>
 </template>
-
-<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer> </script>
 <script lang="ts">
 import Vue from 'vue'
 
@@ -251,7 +250,7 @@ export default Vue.extend({
     return { articles }
   },
 })
-window.formbutton=window.formbutton||function(){(
+/*window.formbutton=window.formbutton||function(){(
   formbutton.q=formbutton.q||[]).push(arguments)};
-    formbutton("create", {action: "https://formspree.io/f/xjvpdgqk"})
+    formbutton("create", {action: "https://formspree.io/f/xjvpdgqk"}) */
 </script>
