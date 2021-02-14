@@ -26,7 +26,7 @@
                 <div class="flex items-center justify-between w-full md:w-auto">
                   <a href="#">
                     <span class="sr-only">DundeeBots</span>
-                    <img class="w-auto h-8 sm:h-10" src="/logo.svg" />
+                    <img class="w-auto h-8 sm:h-20" src="/logo.svg" />
                   </a>
                 </div>
               </div>
@@ -129,7 +129,7 @@
 
     <div class="bg-white">
       <div class="px-4 py-12 mx-auto max-w-7xl sm:px-6 lg:py-16 lg:px-8">
-        <!--<div
+        <div
           class="px-6 py-6 bg-teal-600 rounded-lg md:py-12 md:px-12 lg:py-16 lg:px-16 xl:flex xl:items-center"
         >
           <div class="xl:w-0 xl:flex-1">
@@ -141,14 +141,28 @@
             <p class="max-w-3xl mt-3 text-lg leading-6 text-teal-200">
               Enter your email to be the first to know about the latest updates
             </p>
-          </div> -->
-          <div class="mt-8 sm:w-full sm:max-w-md xl:mt-0 xl:ml-8">
-            <div class="ml-form-embed"
-              data-account="2894596:b9n8b4f9r6"
-              data-form="3558925:q3h7x3">
-            </div>
           </div>
-        <!--</div> -->
+          <div class="mt-8 sm:w-full sm:max-w-md xl:mt-0 xl:ml-8">
+            <form class="sm:flex" name="contact" netlify action="https://formspree.io/f/xjvpdgqk" method="POST">
+              <label for="emailAddress" class="sr-only">Email address</label>
+              <input
+                id="emailAddress"
+                name="emailAddress"
+                type="email"
+                autocomplete="email"
+                required
+                class="w-full px-5 py-3 placeholder-gray-500 border-white rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-teal-700 focus:ring-white"
+                placeholder="Enter your email"
+              />
+              <button
+                type="submit"
+                class="flex items-center justify-center w-full px-5 py-3 mt-3 text-base font-medium text-white bg-teal-500 border border-transparent rounded-md shadow hover:bg-teal-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-teal-700 focus:ring-white sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0"
+              >
+                Notify me
+              </button>
+            </form>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -217,6 +231,7 @@
   </div>
 </template>
 
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script lang="ts">
 import Vue from 'vue'
 
@@ -235,12 +250,8 @@ export default Vue.extend({
 
     return { articles }
   },
-});
-(function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f() {
-  var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);
-  }
-  f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
-  var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
-_.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
-var ml_account = ml('accounts', '2894596', 'b9n8b4f9r6', 'load');
+})
+window.formbutton=window.formbutton||function(){(
+  formbutton.q=formbutton.q||[]).push(arguments)};
+    formbutton("create", {action: "https://formspree.io/f/xjvpdgqk"})
 </script>

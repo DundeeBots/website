@@ -152,13 +152,11 @@
         </div>
       </div>
     </div>
+
    <footer class="bg-white">
       <div class="px-4 py-12 mx-auto overflow-hidden max-w-7xl sm:px-6 lg:px-8">
         <h1 class="text-base text-center text-gray-400">
-          Funded by the <span class="text-teal-500">IET</span>
-        </h1>
-        <h1 class="mt-4 text-base text-center text-gray-400">
-          Hero Image by Les Pounder for micro:mag
+          Funded by the <a href="https://www.theiet.org/" class="text-teal-500">IET</a>
         </h1>
         <div class="flex justify-center mt-8 space-x-6">
           <a
