@@ -30,7 +30,7 @@
       >
         <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
           <div class="flex items-center justify-between w-full md:w-auto">
-            <a href="#">
+            <a href="/index">
               <span class="sr-only">DundeeBots</span>
               <img class="w-auto h-8 sm:h-20" src="/logo.svg" />
             </a>
