@@ -13,7 +13,7 @@
                   alt="Logo"
                 />
                 <img
-                  class="w-auto h-8 sm:h-20"
+                  class="hidden lg:block h-20 w-auto"
                   src="/logo.svg"
                   alt="Logo"
                 />
