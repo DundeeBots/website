@@ -3,7 +3,7 @@
     <!-- This example requires Tailwind CSS v2.0+ -->
     <nav class="bg-white shadow border-b">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex justify-between h-35">
+        <div class="flex justify-between h-40">
           <div class="flex">
             <div class="flex-shrink-0 flex items-center">
               <a href="/">
