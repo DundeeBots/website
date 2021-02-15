@@ -230,7 +230,7 @@
     </footer>
   </div>
 </template>
-<script lang="ts" src="https://formspree.io/js/formbutton-v1.min.js" defer>
+<script lang="ts">
 import Vue from 'vue'
 
 export default Vue.extend({
@@ -249,7 +249,6 @@ export default Vue.extend({
     return { articles }
   },
 })
-window.formbutton=window.formbutton||function(){(
   formbutton.q=formbutton.q||[]).push(arguments)};
     formbutton("create", {action: "https://formspree.io/f/xjvpdgqk"})
 </script>
