@@ -25,7 +25,7 @@
     </nav> -->
     <div class="relative px-4 pt-6 sm:px-6 lg:px-8">
       <nav
-        class="relative flex items-center justify-between sm:h-10 lg:justify-start"
+        class="relative flex items-center justify-between sm:h-5 lg:justify-start"
         aria-label="Global"
       >
         <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
@@ -38,7 +38,7 @@
         </div>
       </nav>
     </div>
-    
+
     <div class="relative py-16 bg-white overflow-hidden">
       <div class="hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full">
         <div
