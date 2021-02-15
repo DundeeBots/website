@@ -16,7 +16,7 @@
                   class="hidden lg:block h-20 w-auto"
                   src="/logo.svg"
                   alt="Logo"
-                />
+                /> -->
               </a>
             </div>
           </div>
