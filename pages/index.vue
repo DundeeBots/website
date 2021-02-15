@@ -136,7 +136,7 @@
             <h2
               class="text-2xl font-extrabold tracking-tight text-white sm:text-3xl"
             >
-              Sign up to hear more when we launch
+              Sign up to get updates straight to your inbox
             </h2>
             <p class="max-w-3xl mt-3 text-lg leading-6 text-teal-200">
               Enter your email to be the first to know about the latest updates
@@ -249,6 +249,4 @@ export default Vue.extend({
     return { articles }
   },
 })
-  /*formbutton.q=formbutton.q||[]).push(arguments)};
-    formbutton("create", {action: "https://formspree.io/f/xjvpdgqk"}) */
 </script>
