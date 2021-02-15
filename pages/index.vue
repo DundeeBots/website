@@ -143,7 +143,7 @@
             </p>
           </div>
           <div class="mt-8 sm:w-full sm:max-w-md xl:mt-0 xl:ml-8">
-            <form class="sm:flex" name="contact" netlify action="https://formspree.io/f/xjvpdgqk" method="POST">
+            <form class="sm:flex" name="Newsletter" netlify action="https://formspree.io/f/xjvpdgqk" method="POST">
               <label for="emailAddress" class="sr-only">Email address</label>
               <input
                 id="emailAddress"
@@ -158,7 +158,7 @@
                 type="submit"
                 class="flex items-center justify-center w-full px-5 py-3 mt-3 text-base font-medium text-white bg-teal-500 border border-transparent rounded-md shadow hover:bg-teal-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-teal-700 focus:ring-white sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0"
               >
-                Notify me
+                Sign up
               </button>
             </form>
           </div>
