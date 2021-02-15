@@ -8,12 +8,12 @@
             <div class="flex-shrink-0 flex items-center">
               <a href="/">
                 <img
-                  class="block lg:hidden h-20 w-auto"
+                  class="block lg:hidden h-8 w-auto"
                   src="/logo.svg"
                   alt="Logo"
                 />
                 <img
-                  class="hidden lg:block h-20 w-auto"
+                  class="hidden lg:block h-8 w-auto"
                   src="/logo.svg"
                   alt="Logo"
                 />
