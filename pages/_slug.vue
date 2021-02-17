@@ -213,7 +213,14 @@
    <footer class="bg-white">
       <div class="px-4 py-12 mx-auto overflow-hidden max-w-7xl sm:px-6 lg:px-8">
         <h1 class="text-base text-center text-gray-400">
-          Funded by the <a href="https://www.theiet.org/" class="text-teal-500">IET</a>
+          Funded by the 
+          <a href="https://www.theiet.org/">
+            <img class="inline ml-2 sm:h-10" src="/IET_Logo.svg" />
+          </a>
+          and
+          <a href="https://www.imeche.org/">
+            <img class="inline ml-2 sm:h-10" src="/imeche-master-logo.jpg" />
+          </a>
         </h1>
         <div class="flex justify-center mt-8 space-x-6">
           <a
