@@ -30,6 +30,11 @@
                   </a>
                 </div>
               </div>
+              <div class = "hidden lg:flex lg:min-w-0 lg:flex-1 lg:justify-center lg:gap-x-12">
+              <a href ="/SmartGarden" class="lg:gap-x-12 text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
+              Smart Garden
+              </a>
+            </div>
             </nav>
           </div>
 
@@ -74,14 +79,14 @@
                     Learn More
                   </a>
                 </div>
-                <!--<div class="mt-3 sm:mt-0 sm:ml-3">
+                <div class="mt-3 sm:mt-0 sm:ml-3">
                   <a
-                    href="#"
-                    class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-teal-700 bg-teal-100 border border-transparent rounded-md hover:bg-teal-200 md:py-4 md:text-lg md:px-10"
+                    href="SmartGarden.vue"
+                    class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-teal-800 bg-teal-400 border border-transparent rounded-md hover:bg-teal-200 md:py-4 md:text-lg md:px-10"
                   >
-                    Book a session
+                    Smart Garden
                   </a>
-                </div> -->
+                </div>
               </div>
             </div>
           </main>
@@ -90,7 +95,7 @@
       <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <img
           class="object-cover w-full h-56 sm:h-72 md:h-96 lg:w-full lg:h-full"
-          src="https://micromag.cc/content/images/size/w600/2020/10/image-32.png"
+          src="/Robot.png"
           alt=""
         />
       </div>
