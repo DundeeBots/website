@@ -64,7 +64,7 @@
                 <p
                   class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
                 >
-                  This is a community project between the Maxwell Center community garden, Central library Code Club and Morgan Academy Students within Dundee.
+                  This is a community project between the Maxwell Center community garden, Central library Code Club and Morgan Academy Students within Dundee. Together we will explore hydroponics and smart garden technology to make the garden more efficient. 
                 </p>
                 <!-- <div
                   class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start"
