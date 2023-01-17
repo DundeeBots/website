@@ -102,7 +102,7 @@
                 </p>
                 
                 <!-- Downloads section for LED Strip -->
-               <!-- <div class="border-t border-gray-200 px-4 py-5 sm:px-6">
+                <div class="border-t border-gray-200 px-4 py-5 sm:px-6">
                     <dl class="grid grid-cols-1 gap-x-4 gap-y-8 sm:grid-cols-2">
                         <div class="sm:col-span-2">
                             <dt class="text-md font-medium text-gray-500" style="color: #088494">Downloads</dt>
@@ -115,7 +115,7 @@
                                         </div>
                           
                                         <div class="ml-4 flex-shrink-0">
-                                            <a href = "/GettingStartedMB/LessonPlan.pdf" target="_blank" class="font-medium" style="color: #088494"> 
+                                            <a href = "microbit-LEDTest.hex" target="_blank" class="font-medium" style="color: #088494"> 
                                                 Download
                                             </a>
                                         </div>
@@ -128,7 +128,7 @@
                                         </div>
                            
                                         <div class="ml-4 flex-shrink-0">
-                                            <a href="/GettingStartedMB/SlideDeck.pdf" target="_blank" class="font-medium" style="color: #088494"> 
+                                            <a href="/microbit-LEDRecieved.hex" target="_blank" class="font-medium" style="color: #088494"> 
                                                 Download 
                                             </a>
                                         </div>
@@ -141,7 +141,7 @@
                                         </div>
                           
                                         <div class="ml-4 flex-shrink-0">
-                                            <a href="/GettingStartedMB/TeacherNotes.pdf" target="_blank" class="font-medium" style="color: #088494"> 
+                                            <a href="/microbit-LEDRemote.hex" target="_blank" class="font-medium" style="color: #088494"> 
                                                 Download 
                                             </a>
                                         </div>
@@ -150,7 +150,7 @@
                            </dd>
                         </div>
                      </dl>
-                </div> -->
+                </div>
 
                 <h3>
                     <a id = "Greenhouse" class="md:text-3xl tracking-tight font-extrabold" style="color:#66b7be">
