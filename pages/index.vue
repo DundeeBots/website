@@ -16,13 +16,9 @@
           </svg>
 
           <div class="relative px-4 pt-6 sm:px-6 lg:px-8">
-            <nav
-              class="relative flex items-center justify-between sm:h-10 lg:justify-start"
-              aria-label="Global"
-            >
-              <div
-                class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0"
-              >
+            <!-- Top Menu-->
+            <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
+              <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                 <div class="flex items-center justify-between w-full md:w-auto">
                   <a href="#">
                     <span class="sr-only">DundeeBots</span>
@@ -32,7 +28,12 @@
               </div>
               <div class = "hidden lg:flex lg:min-w-0 lg:flex-1 lg:justify-center lg:gap-x-12">
               <a href ="/SmartGarden" class="lg:gap-x-12 text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
-              Smart Garden
+                Smart Garden
+              </a>
+            </div>
+            <div class = "hidden lg:flex lg:min-w-0 lg:flex-1 lg:justify-center lg:gap-x-12">
+              <a href ="/HilltownStobswellTech" class="lg:gap-x-12 text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
+                Hilltown and Stobswell
               </a>
             </div>
             </nav>
@@ -68,12 +69,9 @@
                 manufacture educational robotic resources with the active
                 participation of young people from the local community.
               </p>
-              <div
-                class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start"
-              >
+              <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div class="rounded-md shadow">
-                  <a
-                    href="https://dundeebots.uk/welcome"
+                  <a href="https://dundeebots.uk/welcome"
                     class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-teal-600 border border-transparent rounded-md hover:bg-teal-700 md:py-4 md:text-lg md:px-10"
                   >
                     Learn More
@@ -87,6 +85,23 @@
                     Smart Garden
                   </a>
                 </div>
+              </div>
+              <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
+                <div class="rounded-md shadow">
+                  <a href="/HilltownStobswellTech"
+                    class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-teal-600 border border-transparent rounded-md hover:bg-teal-700 md:py-4 md:text-lg md:px-10"
+                  >
+                    Hilltown & Stobswell
+                  </a>
+                </div>
+                <!-- <div class="mt-3 sm:mt-0 sm:ml-3">
+                  <a
+                    href="SmartGarden"
+                    class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-teal-800 bg-teal-400 border border-transparent rounded-md hover:bg-teal-200 md:py-4 md:text-lg md:px-10"
+                  >
+                    Smart Garden
+                  </a>
+                </div> -->
               </div>
             </div>
           </main>
