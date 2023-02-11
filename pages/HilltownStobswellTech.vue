@@ -105,61 +105,61 @@
             </h2>
             <div class="mt-6 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-8">
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                    <!-- <img class="max-h-12" src="https://tailwindui.com/img/logos/transistor-logo-gray-400.svg" alt="Workcation" /> -->
+                    <img class="max-h-12" src="/ClepingtonPrimary.png" alt="Clepington Primary" />
                     <a href = "http://clepingtonprimary.ea.dundeecity.sch.uk/" target="_blank" class="font-medium px-8" style="color: #088494">
                         Clepington Primary
                     </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!--<img class="max-h-12" src="https://tailwindui.com/img/logos/mirage-logo-gray-400.svg" alt="Mirage" /> -->
+                  <img class="max-h-12" src="/DensPrimary.png" alt="Dens Road Primary" />
                   <a href = "http://densroadprimary.ea.dundeecity.sch.uk/" target="_blank" class="font-medium px-8" style="color: #088494">
                     Dens Road Primary
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!-- <img class="max-h-12" src="https://tailwindui.com/img/logos/tuple-logo-gray-400.svg" alt="Tuple" /> -->
+                  <img class="max-h-12" src="/FrancesWrightELC.png" alt="Francis Wright Early Learning Centre" />
                   <a href = "https://twitter.com/FWPSCnursery" target="_blank" class="font-medium px-8" style="color: #088494">
                     Frances Wright Early Learning Centre
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!--<img class="max-h-12" src="https://tailwindui.com/img/logos/laravel-logo-gray-400.svg" alt="Laravel" /> -->
+                  <img class="max-h-12" src="/GlebelandsPrimary.png" alt="Glebelands Primary" />
                   <a href = "http://glebelands.ea.dundeecity.sch.uk/" target="_blank" class="font-medium px-8" style="color: #088494">
                     Glebelands Primary 
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!--<img class="max-h-12" src="https://tailwindui.com/img/logos/statickit-logo-gray-400.svg" alt="StaticKit" /> -->
+                  <img class="max-h-12" src="/MorganAcademy.png" alt="Morgan Academy" />
                   <a href = "http://morgan.ea.dundeecity.sch.uk/" target="_blank" class="font-medium px-8" style="color: #088494">
                     Morgan Academy
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!--<img class="max-h-12" src="https://tailwindui.com/img/logos/statamic-logo-gray-400.svg" alt="Statamic" /> -->
+                  <img class="max-h-12" src="/OurLadiesPrimary.png" alt="Our Ladies Primary" />
                   <a href = "http://ourladysprimary.ea.dundeecity.sch.uk/" target="_blank" class="font-medium px-8" style="color: #088494">
                     Our Lady’s RC Primary
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!--<img class="max-h-12" src="https://tailwindui.com/img/logos/statamic-logo-gray-400.svg" alt="Statamic" /> -->
+                  <img class="max-h-12" src="RosebankPrimary.png" alt="Rosebank Primary" />
                   <a href = "http://rosebank.ea.dundeecity.sch.uk/" target="_blank" class="font-medium px-8" style="color: #088494">
                     Rosebank Primary
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!--<img class="max-h-12" src="https://tailwindui.com/img/logos/statamic-logo-gray-400.svg" alt="Statamic" /> -->
+                  <img class="max-h-12" src="/WallaceTownELC.jpeg" alt="Wallacetown Early Learning Centre" />
                   <a href = "https://blogs.glowscotland.org.uk/dd/CfEemergingpracticeinDundee/2012/04/23/wallacetown-nursery-school/" target="_blank" class="font-medium px-8" style="color: #088494">
                     Wallacetown Early Learning Centre
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!--<img class="max-h-12" src="https://tailwindui.com/img/logos/statamic-logo-gray-400.svg" alt="Statamic" /> -->
+                  <img class="max-h-12" src="/DMS.png" alt="Dundee Makerspace" />
                   <a href = "https://www.dundeemakerspace.com/" target="_blank" class="font-medium px-8" style="color: #088494">
                     Dundee Makerspace
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <!--<img class="max-h-12" src="https://tailwindui.com/img/logos/statamic-logo-gray-400.svg" alt="Statamic" /> -->
+                  <img class="max-h-12" src="/MAC.png" alt="Makerspace At Central" />
                   <a href = "https://twitter.com/dundeelibraries" target="_blank" class="font-medium px-8" style="color: #088494">
                     Makerspace at Central Library
                   </a>
