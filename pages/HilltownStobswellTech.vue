@@ -30,11 +30,13 @@
                     </a>
                   </div>
                 </div>
-                <!--<div class = "hidden lg:flex lg:min-w-0 lg:flex-1 lg:justify-center lg:gap-x-12">
-                <a href ="/Resources" class="lg:gap-x-12 text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
-                    Resources
+
+                <!-- Menu -->
+                <div class = "hidden lg:flex lg:min-w-0 lg:flex-1 lg:justify-center lg:gap-x-12">
+                  <a href ="/3dPrinting" class="lg:gap-x-12 text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
+                    3d Printing
                 </a>
-              </div> -->
+              </div>
               </nav>
             </div>
   
@@ -69,14 +71,14 @@
                 <div
                   class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start"
                 >
-                  <!--<div class="rounded-md shadow">
+                  <div class="rounded-md shadow">
                     <a
-                      href="/Resources"
+                      href="/3dPrinting"
                       class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-teal-600 border border-transparent rounded-md hover:bg-teal-700 md:py-4 md:text-lg md:px-10"
                     >
-                      Resources
+                      3D Printing
                     </a>
-                  </div> -->
+                  </div>
                   <!--<div class="mt-3 sm:mt-0 sm:ml-3">
                     <a
                       href="SmartGarden.vue"
@@ -206,7 +208,6 @@
           </div>
         </div>
       </div>
-  
      <!-- <a href="#">
                       <span class="sr-only">DundeeBots</span>
                       <img class="w-auto h-8 sm:h-20" src="/logo.svg" />
