@@ -1,6 +1,8 @@
 <template>
   <div class="font-sans">
+    <Header />
     <div class="relative overflow-hidden bg-white">
+      
       <div class="mx-auto max-w-7xl">
         <div
           class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32"
@@ -15,8 +17,7 @@
             <polygon points="50,0 100,0 50,100 0,100" />
           </svg>
 
-          <div class="relative px-4 pt-6 sm:px-6 lg:px-8">
-            <!-- Top Menu-->
+          <!--<div class="relative px-4 pt-6 sm:px-6 lg:px-8">
             <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
               <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                 <div class="flex items-center justify-between w-full md:w-auto">
@@ -36,8 +37,8 @@
                 Hilltown and Stobswell
               </a>
             </div>
-            </nav>
-          </div>
+          </nav>
+          </div> -->
 
           <!--
         Mobile menu, show/hide based on menu open state.
@@ -265,7 +266,8 @@
   </div>
 </template>
 <script lang="ts">
-import Vue from 'vue'
+import Vue from 'vue';
+import Header from "~/components/Header.vue";
 
 export default Vue.extend({
   async asyncData({ app }) {
@@ -282,5 +284,8 @@ export default Vue.extend({
 
     return { articles }
   },
+  components: {
+    Header
+  }
 })
 </script>
