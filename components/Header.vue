@@ -156,7 +156,7 @@ import Vue from "vue";
 export default Vue.extend({
  name: "Header",
  data: () => ({
-   isOpen: true,
+   isOpen: false,
 })
 });
 </script>
