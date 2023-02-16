@@ -10,7 +10,7 @@
          </div>
          
          <div class="-mr-2 -my-2 md:hidden">
-           <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-red-500">
+           <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-teal-600">
              <span class="sr-only">Open menu</span>
            </button>
          </div>
@@ -72,11 +72,11 @@
              </transition>
            </div> -->
 
-           <a href="/SmartGarden" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
+           <a href="/SmartGarden" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
              Smart Garden
            </a>
 
-            <a href="/HilltownStobswellTech" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
+            <a href="/HilltownStobswellTech" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
                 Hilltown Stobswell Tech
             </a>
          </nav>
