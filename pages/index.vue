@@ -35,7 +35,7 @@
           From: "opacity-100 scale-100"
           To: "opacity-0 scale-95"
           -->
-      <main class="px-4 pt-6 mx-auto max-w-7xl">
+      <main class="mx-auto max-w-7xl">
         <div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
           <svg
             class="absolute inset-y-0 right-0 hidden w-48 h-full text-white transform translate-x-1/2 lg:block"
@@ -46,7 +46,7 @@
           >
             <polygon points="50,0 100,0 50,100 0,100" />
           </svg>
-          <div class="sm:text-center lg:text-left">
+          <div class="px-4 pt-6 sm:text-center lg:text-left">
             <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
               <span class="block xl:inline">
                 Robotics to inspire the
