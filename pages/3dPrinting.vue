@@ -328,16 +328,19 @@
                 </div>
             </div>
         </div>
+        <HSTFooter />
     </div>
 </template>
 
 <script lang="ts">
     import Vue from "vue";
-    import HSTHeaderPages from "~/components/HSTHeaderPages.vue";
+    import HSTHeaderPages from "../components/HSTHeaderPages.vue";
+    import HSTFooter from "../components/HSTFooter.vue";
 
     export default Vue.extend({
         components: {
-            HSTHeaderPages
+            HSTHeaderPages,
+            HSTFooter
         }
         
     });
