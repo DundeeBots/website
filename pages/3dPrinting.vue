@@ -1,30 +1,10 @@
 <template>
     <div class="relative bg-gray-50">
-        <div class="relative px-4 pt-6 sm:px-6 lg:px-8">
-            <nav
-                class="relative flex items-center justify-between sm:h-10 lg:justify-start"
-                aria-label="Global"
-            >
-                <div
-                  class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0"
-                >
-                    <div class="flex items-center justify-between w-full md:w-auto">
-                        <a href="/">
-                            <span class="sr-only">DundeeBots</span>
-                            <img class="w-auto h-8 sm:h-20" src="/logo.svg" />
-                        </a>
-                    </div>
-                </div>
-                <div class = "hidden lg:flex lg:min-w-0 lg:flex-1 lg:justify-center lg:gap-x-12">
-                    <a href ="/HilltownStobswellTech" class="lg:gap-x-12 text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
-                        Hilltown Stobswell Tech
-                    </a>
-                </div>
-            </nav>
-        </div>
+        
+        <HSTHeaderPages />
      
         <!-- main -->
-         <div class="relative px-4 sm:px-6 lg:px-8">
+         <div class="relative px-4 pt-6 sm:px-6 lg:px-8">
             <!--Page Heading-->
             <div class="text-lg max-w-prose mx-auto">
                 <h1 class="text-4xl tracking-tight font-extrabold text-teal-600 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl">
@@ -350,5 +330,17 @@
         </div>
     </div>
 </template>
+
+<script lang="ts">
+    import Vue from "vue";
+    import HSTHeaderPages from "~/components/HSTHeaderPages.vue";
+
+    export default Vue.extend({
+        components: {
+            HSTHeaderPages
+        }
+        
+    });
+</script>
   
   

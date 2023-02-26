@@ -72,13 +72,14 @@
              </transition>
            </div> -->
 
-           <a href="/SmartGarden" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
-             Smart Garden
-           </a>
-
             <a href="/HilltownStobswellTech" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
                 Hilltown Stobswell Tech
-            </a>
+            </a> 
+        
+            <!-- <a href="/3dPrinting" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
+             3D Printing
+           </a> -->
+
          </nav>
          <!-- Desktop Menu END -->
        </div>
@@ -129,13 +130,13 @@
                              </div>
                            </NuxtLink> -->
        
-                           <a href="/SmartGarden" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600 p-3">
-                             Smart Garden
-                           </a>
-
                            <a href="/HilltownStobswellTech" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600 p-3">
                              Hilltown Stobswell Tech
-                           </a>
+                           </a> 
+                        
+                        <!-- <a href="/3dPrinting" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600 p-3">
+                             3D Printing
+                           </a> -->
                          </nav>
                        </div>
                      </div>
@@ -151,12 +152,12 @@
 </template>
 
 <script lang="ts">
-import Vue from "vue";
+    import Vue from "vue";
 
-export default Vue.extend({
- name: "Header",
- data: () => ({
-   isOpen: false,
-})
-});
+    export default Vue.extend({
+        name: "HSTHeaderPages",
+        data: () => ({
+            isOpen: false,
+        })
+    });
 </script>
