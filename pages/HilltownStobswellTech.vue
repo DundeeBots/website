@@ -143,7 +143,7 @@
                   </a>
                 </div>
                 <div class="col-span-1 flex justify-center bg-gray-50 py-8 px-8">
-                  <img class="max-h-12" src="RosebankPrimary.png" alt="Rosebank Primary" />
+                  <img class="max-h-12" src="/RosebankPrimary.png" alt="Rosebank Primary" />
                   <a href = "http://rosebank.ea.dundeecity.sch.uk/" target="_blank" class="font-medium px-8" style="color: #088494">
                     Rosebank Primary
                   </a>
