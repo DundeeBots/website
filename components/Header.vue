@@ -4,7 +4,7 @@
        <div class="flex justify-between items-center py-6 md:justify-start md:space-x-10">
          <div class="flex justify-start lg:w-0 lg:flex-1">
            <a href="/">
-             <span class="sr-only">Workflow</span>
+             <span class="sr-only">DundeeBots</span>
              <img class="h-8 w-auto sm:h-20" src="@/static/logo.svg" alt="Logo">
            </a>
          </div>
