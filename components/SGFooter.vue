@@ -1,18 +1,16 @@
 <template>
     <footer class="bg-white">
         <div class="px-4 py-12 mx-auto overflow-hidden max-w-7xl sm:px-6 lg:px-8">
-          <!--<div class="lex justify-center mt-8 space-x-6"> -->
-          <!--<h1 class="text-base text-center text-gray-400">
-            Funded by
-            <a href="https://www.iop.org/">
-              <img class="inline ml-2 sm:h-10" src="/IOP_Logo.png" />
-            </a>
-          </h1> -->
-          <!--</div> -->
-          <div class="flex justify-center mt-8 space-x-6">
+            <h1 class="text-base text-center text-gray-400">
+                Funded by
+                <a href="https://www.iop.org/">
+                    <img class="inline ml-2 sm:h-10" src="/IOP_Logo.png" />
+                </a>
+            </h1>
+            <div class="flex justify-center mt-8 space-x-6">
                 <a
-                href="https://twitter.com/RaspiKidd"
-                class="text-gray-400 hover:text-gray-500"
+                    href="https://twitter.com/RaspiKidd"
+                    class="text-gray-400 hover:text-gray-500"
                 >
                     <span class="sr-only">
                         Twitter
@@ -56,9 +54,9 @@
                     </svg>
                 </a>
             </div>
-            <p class="mt-8 text-base text-center text-gray-400">
-                &copy; 2023 DundeeBots. All rights reserved.
-            </p>
+                <p class="mt-8 text-base text-center text-gray-400">
+                    &copy; 2023 DundeeBots. All rights reserved.
+                </p>
         </div>
     </footer>
 </template>
