@@ -76,9 +76,9 @@
              3D Printing
            </a>
 
-            <!-- <a href="/HilltownStobswellTech" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
-                Hilltown Stobswell Tech
-            </a> -->
+            <a href="http://hilltownstobswell.tech/" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600" target="_blank">
+                Google Site
+            </a>
          </nav>
          <!-- Desktop Menu END -->
        </div>
