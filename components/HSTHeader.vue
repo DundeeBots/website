@@ -76,7 +76,7 @@
              3D Printing
            </a>
 
-            <a href="http://hilltownstobswell.tech/" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600" target="_blank">
+            <a href="https://docs.google.com/document/d/1ZXAYO5TKVr6hzoabtPTuqIYp0j7YbcPfoqfRiNU211Q/edit?usp=sharing" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600" target="_blank">
                 Google Site
             </a>
          </nav>
