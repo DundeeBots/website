@@ -76,7 +76,7 @@
              3D Printing
            </a>
 
-            <a href="https://docs.google.com/document/d/1ZXAYO5TKVr6hzoabtPTuqIYp0j7YbcPfoqfRiNU211Q/edit?usp=sharing" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600" target="_blank">
+            <a href="https://docs.google.com/document/u/1/d/e/2PACX-1vRAOjFHAn9pF-ljtXdDcpQ5v0l4WObduFmta-fXKQgnDt2st7fW3kiE6uj3zY-RzqlZqyzS4ciwaDKL/pub" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600" target="_blank">
                 Google Site
             </a>
          </nav>
