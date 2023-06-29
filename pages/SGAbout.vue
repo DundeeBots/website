@@ -1,59 +1,15 @@
 <template>
-  <div class="font-sans">
-    <div class="relative overflow-hidden bg-white">
-      <main class="mx-auto max-w-7xl">
-        <div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
-          <svg
-            class="absolute inset-y-0 right-0 hidden w-48 h-full text-white transform translate-x-1/2 lg:block"
-            fill="currentColor"
-            viewBox="0 0 100 100"
-            preserveAspectRatio="none"
-            aria-hidden="true"
-          >
-            <polygon points="50,0 100,0 50,100 0,100" />
-          </svg>
-
-          <SGHeader />
-  
-          <!--<div class="relative px-4 pt-6 sm:px-6 lg:px-8">
-            <nav
-              class="relative flex items-center justify-between sm:h-10 lg:justify-start"
-              aria-label="Global"
-            >
-              <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
-                <div class="flex items-center justify-between w-full md:w-auto">
-                  <a href="/">
-                    <span class="sr-only">DundeeBots</span>
-                    <img class="w-auto h-8 sm:h-20" src="/logo.svg" />
-                  </a>
-                </div>
-              </div>
-                
-              <div class = "hidden lg:flex lg:min-w-0 lg:flex-1 lg:justify-center lg:gap-x-12">
-                <a href ="/SGResources" class="lg:gap-x-12 text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
-                  Resources
-                </a>
-              </div>
-            </nav>
-          </div> -->
-  
-          <!--
-            Mobile menu, show/hide based on menu open state.
-  
-            Entering: "duration-150 ease-out"
-            From: "opacity-0 scale-95"
-            To: "opacity-100 scale-100"
-            Leaving: "duration-100 ease-in"
-            From: "opacity-100 scale-100"
-            To: "opacity-0 scale-95"
-          -->
-          <div class="px-4 mx-auto mt-10 max-w-7xl sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
-            <div class="sm:text-center lg:text-left">
-              <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
-                <span class="block xl:inline"> About </span>
-              </h1>
-              
-              <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl">
+    <div class="relative bg-gray-50">
+      <SGHeader />
+      <main class="lg:relative">
+        <div class="mx-auto max-w-7xl w-full pt-16 pb-20 lg:py-30">
+          <div class="px-4 lg:w-1/2 sm:px-8 xl:pr-16">
+            <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl text-center">
+              <span class="block xl:inline"> About </span> <br>
+              <!--<span class="block xl:inline xl:text-5xl"> through physical computing</span> -->
+            </h1>
+            
+            <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
                 Background of the Project
               </h2>
 
@@ -69,7 +25,7 @@
                 could have at home. This is where the hydroponics in a box was born. 
               </p>
 
-              <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl">
+              <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
                 What's Hydroponics?
               </h2>
               
@@ -79,66 +35,108 @@
                 adjusted to provide the necessary nutrients. This method has become increasingly popular in recent years due to 
                 its sustainability and efficiency. Within our system we are still using a substrate to hold the plants.  
               </p>
-                
-              <!-- <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
-                <div class="rounded-md shadow">
-                  <a
-                    href="/SGResources"
-                    class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-teal-600 border border-transparent rounded-md hover:bg-teal-700 md:py-4 md:text-lg md:px-10"
-                  >
-                    Resources
-                  </a>
-                </div> -->
-                <!--<div class="mt-3 sm:mt-0 sm:ml-3">
-                  <a
-                    href="SmartGarden.vue"
-                    class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-teal-600 border border-transparent rounded-md hover:bg-teal-700 md:py-4 md:text-lg md:px-10"
-                  >
-                    Smart Garden
-                  </a>
-                </div> 
-              </div> -->
-            </div>
+
+              <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
+                Hydropionics in a Box
+              </h2>
+              
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                The hydroponics in a box consists of:
+                <ul class = "mt-3" style="list-style-type: square">
+                  <li class="mt-3">
+                    <b> Plastic Box </b> - while the system is not in use it can be packed down and stored in the box.
+                  </li>
+                  <li class="mt-3">
+                    <b> Water Pump </b>  -  I circulate the water and food around the plants.
+                  </li>
+                  <li class="mt-3">
+                    <b> Water Level Sensor </b> - I sense the level of the water and when it gets too low I communicate with the LEDs to turn red and 
+                    alert a human that we need more water.
+                  </li>
+                  <li class="mt-3"> 
+                    <b> LED strips </b> - I am stuck to the lid of the box and help the plant grow where there is not enough natural light.
+                  </li>
+                  <li class="mt-3">
+                    <b> Wooden Frame </b> -  I am made up of scrap bits of wood and sit on top of the box to allow the plants to have enough room to grow 
+                    between the box and the lights.
+                  </li>
+                  <li class="mt-3">
+                    <b> Seed Tray </b> - I hold the substrate and the plants.
+                  </li>
+                  <li class="mt-3">
+                    <b> Moisture Sensor </b> -  I detect when the substrate is too dry and communicate with the pump that the plants need more water.
+                  </li>
+                  <li class="mt-3">
+                    <b> Raspberry Pi Pico </b> -  I am the brain of the system. I hold all the code to communicate with all the electronics and power the 
+                    whole system through my microUSB power cable.
+                  </li>
+                  <li class="mt-3">
+                    <b> A Breadboard </b> - I have wires that run through me and connect all the electronics to the brain.
+                  </li>
+                </ul>
+              </p>
+
+              <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
+                What's Next?
+              </h2>
+              
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                Now that we have got the base of the system up and running there are another few things that we want to do:
+                <ul class="mt-3" style="list-style-type: square">
+                  <li class="mt-3">
+                    <b> Web App </b> - We want to setup a web app so we can monitor the hydroponics system remotely. This will also entitle us to get a 
+                    notification stright to our mobile device/dashboard if anything is wrong and the system needs attention.
+                  </li>
+                  <li class="mt-3">
+                    <b> Solar Panel </b> - Allowing the system to be set up anywhere and sustainable without elecrticity.
+                  </li>
+                  <li class="mt-3"> 
+                    <b> PH Sensor </b> - Integrate a PH sensor to measure the PH within the water so we can adjust accordingly.
+                  </li>
+                </ul>
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                We would also like to eventually use the system with different substrates, lighting and plants. We will also be thinking of different ways 
+                that we could encase the system to make it usable all year round to prolong growing seasons. If/when this happens we will document it right here, so 
+                make sure you sign up to our mailing list to find out about future updates.
+              </p>
+              
+            <!--<div class="grid grid-cols-2 grid-rows-2 gap-2 place-items-auto h-30 mt-10 sm:ml-3">
+              <div class="rounded-md shadow sm:mt-0 sm:ml-3">
+                <NuxtLink to="/microbit" style ="background-color:#76B82A; color:#0E7452; font-weight: bold; font-size: 18px" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-base rounded-md text-black md:py-4 md:text-lg md:px-4">
+                  micro:bit
+                </NuxtLink>
+              </div>
+            
+              <div class="rounded-md shadow sm:mt-0 sm:ml-3">
+                <NuxtLink to="/RaspberryPi" style ="background-color:#76B82A; color:#0E7452; font-weight: bold; font-size: 18px" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-base rounded-md text-black md:py-4 md:text-lg md:px-4">
+                  Raspberry Pi
+                </NuxtLink> 
+              </div>
+          
+              <div class="rounded-md shadow sm:mt-0 sm:ml-3">
+                <router-link to="/ComputerRepair" style ="background-color:#76B82A;" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-base rounded-md text-black md:py-4 md:text-lg md:px-4">
+                  Computer Repair
+                </router-link>
+              </div>
+          
+              <div class="rounded-md shadow sm:mt-0 sm:ml-3">
+                <router-link to="/SoftwareInstall" style ="background-color:#76B82A;" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-base rounded-md text-black md:py-4 md:text-lg md:px-4">
+                  Software Install
+                </router-link>
+              </div>
+            </div> -->
           </div>
         </div>
+    
+        <div class="relative w-full h-64 sm:h-72 md:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full">
+          <img class="absolute inset-0 w-full h-full object-cover" src="/HydroponicsPrototype.jpg" alt="Hydroponics in a Box Prototype">
+        </div>
       </main>
-
-      <!-- Main Image-->
-      <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-        <img
-          class="object-cover w-full h-56 sm:h-72 md:h-96 lg:w-full lg:h-full"
-          src="/HydroponicsPrototype.jpg"
-          alt="Hydroponics in a Box Prototype"
-        />
-      </div>
-    </div>
   
-    <!--<div class="relative px-4 pt-16 pb-20 sm:px-6 lg:pt-24 lg:pb-28 lg:px-8 bg-gray-50">
-      <div class="absolute inset-0">
-        <div class="bg-gray-50 h-1/3 sm:h-2/3"></div>
-      </div>
-      <div class="relative mx-auto max-w-7xl bg-gray-50">
-        <div class="text-center">
-          <h1 class="text-3xl font-extrabold tracking-tight text-teal-600  md:text-7xl">
-            From the blog
-          </h1>
-        </div>
-        <div class="grid max-w-lg gap-5 mx-auto mt-12 lg:grid-cols-3 lg:max-w-none">
-          <ArticleCard
-            v-for="article in articles"
-            :key="article.content.title"
-            :title="article.content.title"
-            :description="article.content.description"
-            :slug="`/${article.slug}`"
-            :author="article.content.author"
-            :image="article.content.image.filename"
-            :date="article.content.date.toLocaleDateString()"
-          />
-        </div>
-      </div>
-    </div> -->
-    <!-- Newsletter Sign Up -->
-    <div class="bg-gray-50">
+      <!-- Neswletter form -->
+      <div class="bg-gray-50">
       <div class="px-4 py-12 mx-auto max-w-7xl sm:px-6 lg:py-16 lg:px-8">
         <div class="px-6 py-6 bg-teal-600 rounded-lg md:py-12 md:px-12 lg:py-16 lg:px-16 xl:flex xl:items-center">
           <div class="xl:w-0 xl:flex-1">
@@ -171,20 +169,20 @@
           </div>
         </div>
       </div>
+      </div>
+      <SGFooter />
     </div>
-    <SGFooter />
-  </div>
-</template>
+  </template>
   
   <script lang="ts">
-  import Vue from 'vue';
-  import SGHeader from '~/components/SGHeader.vue';
-  import SGFooter from '~/components/SGFooter.vue';
+    import Vue from "vue";
+    import SGHeader from "~/components/SGHeader.vue";
+    import SGFooter from "~/components/SGFooter.vue";
   
-  export default Vue.extend({
-    components: {
-      SGHeader,
-      SGFooter
-    }
-  })
+    export default Vue.extend({
+      components: {
+        SGHeader,
+        SGFooter
+      }
+    });
   </script>
