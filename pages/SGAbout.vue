@@ -26,7 +26,7 @@
               </li>
               <li> 
                 <a href = "#next_steps">
-                  What's Next
+                  What's Next?
                 </a> 
               </li>
             </ul>
