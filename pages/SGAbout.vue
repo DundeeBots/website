@@ -9,9 +9,33 @@
               <!--<span class="block xl:inline xl:text-5xl"> through physical computing</span> -->
             </h1>
             
-            <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
+            <h2 class="text-3xl tracking-tight font-extrabold sm:text-5xl md:text-5xl lg:text-4xl xl:text-5xl" style="color:#66b7be">
+              Contents
+            </h2>
+            <!-- Page Contents -->
+            <ul class = "mt-3 tracking-tight" style="list-style-type: disc;">
+              <li> 
+                <a href = "#background"> 
+                  Background of the Project
+                </a> 
+              </li>
+              <li> 
+                <a href = "#hydroponics">
+                  What's Hydroponics?
+                </a> 
+              </li>
+              <li> 
+                <a href = "#next_steps">
+                  What's Next
+                </a> 
+              </li>
+            </ul>
+
+            <h2 class="text-center">
+              <a id = "background" class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl ">
                 Background of the Project
-              </h2>
+              </a>
+            </h2>
 
               <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                 Kerry Kidd from RaspiKidd the Orchestra conductor making sure all the code and electronics work together in 
@@ -25,8 +49,10 @@
                 could have at home. This is where the hydroponics in a box was born. 
               </p>
 
-              <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
-                What's Hydroponics?
+              <h2 class="text-center">
+                <a id = "hydroponics" class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
+                  What's Hydroponics?
+                </a>
               </h2>
               
               <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
@@ -36,8 +62,10 @@
                 its sustainability and efficiency. Within our system we are still using a substrate to hold the plants.  
               </p>
 
-              <h2 class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
-                Hydropionics in a Box
+              <h2 class="text-cneter">
+                <a id="next_steps" class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
+                  Hydropionics in a Box
+                </a>
               </h2>
               
               <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
