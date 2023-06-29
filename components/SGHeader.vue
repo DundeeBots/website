@@ -72,7 +72,7 @@
              </transition>
            </div> -->
 
-           <a href="/SGAbout2" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
+           <a href="/SGAbout" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
                 About
             </a>
 
