@@ -72,13 +72,13 @@
              </transition>
            </div> -->
 
+           <a href="/SGAbout" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
+                About
+            </a>
+
            <a href="/SGResources" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
              Resources
            </a>
-
-            <!-- <a href="/HilltownStobswellTech" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-600">
-                Hilltown Stobswell Tech
-            </a> -->
          </nav>
          <!-- Desktop Menu END -->
        </div>
@@ -133,9 +133,9 @@
                              Resources
                            </a>
 
-                           <!-- <a href="/HilltownStobswellTech" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
-                             Hilltown Stobswell Tech
-                           </a> -->
+                           <a href="/SGAbout" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
+                             About
+                           </a>
                          </nav>
                        </div>
                      </div>
