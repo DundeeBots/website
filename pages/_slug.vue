@@ -272,7 +272,7 @@
           </a>
         </div>
         <p class="mt-8 text-base text-center text-gray-400">
-          &copy; 2021 DundeeBots. All rights reserved.
+          &copy; 2024 DundeeBots. All rights reserved.
         </p>
       </div>
     </footer>
