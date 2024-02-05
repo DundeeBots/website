@@ -193,6 +193,37 @@
               
               <img class="w-500 h-500" src="/BeeVisit.jpg" alt="Bee visiting the prototype">
               <img class="w-500 h-500" src="/HydroponicsPrototype.jpg" alt="Hydroponics prototype">
+
+              <h3 class="mt-4 text-2xl font-extrabold tracking-tight text-teal-600 sm:text-4xl md:text-5xl" style="color:#66b7be"> 
+                Conclusion
+              </h3>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                If I had more time I would have liked to get the system completely up and running. I am still doing little bits in 
+                my free time. 
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                In hindsight, I would have chosen a different time of year to do the project so the students from Morgan Academy 
+                could have helped out more and we would have had a working prototype.  
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I would like to see if we can source more funding to improve upon the project. For instance, we were using wooden 
+                dowel rods for the frame on top of the box with wooden blocks attaching them. I would like to swap the wooden 
+                blocks out for 3d printed parts. Also, create a 3d printed tray that attaches to the dowel rods for the breadboard 
+                and the pico board to sit on out of the way of the water. 
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                As we also had a few people asking about being able to recreate the kits I would like to be able to do a more 
+                structured talk at the Maxwell center around the hydroponics system as well as detailed easy to understand 
+                documentation so people could recreate it themselves. 
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                We have also added a section further down the page to where we would like the project to go next.
+              </p>
               
               <h2 class="text-center">
                 <a id = "hydroponics" class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
