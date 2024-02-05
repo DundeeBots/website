@@ -20,6 +20,11 @@
                 </a> 
               </li>
               <li> 
+                <a href = "#What_happened"> 
+                  What Happened through the project
+                </a> 
+              </li>
+              <li> 
                 <a href = "#hydroponics">
                   What's Hydroponics?
                 </a> 
@@ -49,6 +54,146 @@
                 could have at home. This is where the hydroponics in a box was born. 
               </p>
 
+              <h2 class="text-center">
+              <a id = "#What_happened" class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl ">
+                What Happened Through The Project
+              </a>
+              </h2>
+            
+              <h3 class="mt-4 text-2xl font-extrabold tracking-tight text-teal-600 sm:text-4xl md:text-5xl" style="color:#66b7be"> 
+                Week 1 
+              </h3>
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I went and spoke to the volunteers of the Maxwell community garden about what we planned for the project and to get feedback from 
+                them on what they would like to see. This is where the idea of a small-scale hydroponics system came about so people could replicate it 
+                and have it within their homes, balconies, and allotments.
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                From here I went away head spinning with ideas. We planned on using BBC micro:bits to code the system as the students we were working 
+                with all had experience programming them. I 1st of all ordered a fairly pricey hydroponics kit using the micro:bit to give everyone 
+                involved an idea of components that could be used. 
+              </p>
+
+              <h3 class="mt-4 text-2xl font-extrabold tracking-tight text-teal-600 sm:text-4xl md:text-5xl" style="color:#66b7be"> 
+                Week 2
+              </h3>
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I went back to the community garden group with a plethora of electronics and micro:bits including the small hydroponics kit that I had 
+                purchased. 
+              </p>
+
+              <img class="w-500 h-500" src="/GardeningGroup.jpg" alt="Maxwell Gardening Group">
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                The gardening group was excited to see what we could create over the next few weeks/months. We decided the small kit was a great way of 
+                seeing how all the electronic components, lights, water pump, etc could work together but it needed to be bigger to be of much use for 
+                growing anything other than cress.
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                So I took all this information to a group of 4 female Morgan Academy engineering students to see what we could come up with. They had 
+                already been given a slight brief from their teacher of what we were trying to accomplish. We discussed ways that we could make a small 
+                kit that was able to be broken down and stored when it wasn’t in use. 
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I left them with the task of thinking about how this could be accomplished.
+              </p>
+
+              <h3 class="mt-4 text-2xl font-extrabold tracking-tight text-teal-600 sm:text-4xl md:text-5xl" style="color:#66b7be"> 
+                Week 3
+              </h3>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I went to meet with the gardening group with the small micro:bit hydroponics kit as a few wanted to have a go at programming it. So we 
+                ran a quick introduction to the micro:bit and worked through coding the lights of the hydroponic kit.  
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I also caught up with the engineering students from Morgan Academy where they came up with the idea of the hydroponics system being 
+                housed within a box.
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                The box could hold the water a seed tray with the plants can sit on top of this with a wooden frame built up around it and the lid of the 
+                box can have the LED lights attached to it and sits on top of the wooden frame to provide enough light to the plants. The wooden frame 
+                will be cut to lengths that can fit within the box along with all the electronic components when the hydroponics system is not in use. 
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                The students also started exploring programming the LED strips for the lighting using a BBC micro:bit. They also had the idea of using 
+                another one to control the hydroponics system.   
+              </p>
+
+              <iframe 
+                width="560" 
+                height="315" 
+                src="https://www.youtube.com/embed/T7n5iVol6Xo?si=JYtOvS9WleeL2iH1" 
+                title="Programming Lights" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" >
+              </iframe>
+
+              <h3 class="mt-4 text-2xl font-extrabold tracking-tight text-teal-600 sm:text-4xl md:text-5xl" style="color:#66b7be"> 
+                Week 4
+              </h3>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                Back with the gardening group at the Maxwell Center where I explained what the Morgan Academy students had come up with. The gardening 
+                group liked the sound of it. They also then got thinking that it would be a good idea to be able to control certain parts of the 
+                hydroponics system individually and have fail-safe features. For instance, the kit was able to alert us when the water level was getting 
+                too low for the pump to cope with. We thought this could be done with the LED strip for instance the lights could start turning yellow 
+                when the water was getting too low and when the water level was drastically low the lights would go red and the pump would turn off.   
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                After this meeting, I could see that the project was going to grow bigger than we thought, and the micro:bit wouldn’t be able to handle 
+                all the components and programming. 
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I went away for a few weeks to order the components for the hydroponics system and figure out how we could control it all. 
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I decided to use a Raspberry Pi Pico with Wifi capabilities. This way there would be enough pins to attach the electronics to and we 
+                could develop the project in the future to contain a web app where the system could be controlled remotely and there could be a screen 
+                displaying a dashboard of the hydroponics system within the maxwell center where people could see the temperature and water pump status. 
+                They could even turn the lights on and off from here as well. 
+              </p>
+
+              <h3 class="mt-4 text-2xl font-extrabold tracking-tight text-teal-600 sm:text-4xl md:text-5xl" style="color:#66b7be"> 
+                Week 8
+              </h3>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I now had a prototype of the hydroponics system and all the electronics to show the volunteers at the community garden. They loved it and 
+                now we needed to decide what we were going to use as substrate for the plants.   
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                By this point, we had lost our group from Morgan Academy due to exam season coming up and the students found their lunch breaks were 
+                becoming more valuable for extra study sessions. 
+              </p>
+
+              <h3 class="mt-4 text-2xl font-extrabold tracking-tight text-teal-600 sm:text-4xl md:text-5xl" style="color:#66b7be"> 
+                Week 12
+              </h3>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                I went back to the community garden this time for their open day with the hydroponics system prototype set up to show the community what 
+                we had done. It was very well received by the community and a lot of people were interested in finding out more and recreating the system 
+                at home. 
+              </p>
+
+              <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                This was where the project ended as funding had run out and I had little free time to develop it more. 
+              </p>
+              
+              <img class="w-500 h-500" src="/BeeVisit.jpg" alt="Bee visiting the prototype">
+              <img class="w-500 h-500" src="/HydroponicsPrototype.jpg" alt="Hydroponics prototype">
+              
               <h2 class="text-center">
                 <a id = "hydroponics" class="mt-4 text-3xl font-extrabold tracking-tight text-teal-600 sm:text-5xl md:text-6xl text-center">
                   What's Hydroponics?
